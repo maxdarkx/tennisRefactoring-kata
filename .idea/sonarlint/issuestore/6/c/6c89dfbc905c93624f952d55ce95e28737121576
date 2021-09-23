@@ -1,0 +1,29 @@
+
+<	java:S131y""Add a default case to this switch.(ÒÖÁ†úÿÿÿÿ
+=	java:S131‚""Add a default case to this switch.(ˆËÀÆÿÿÿÿÿ
+=	java:S131""Add a default case to this switch.(Ãï¨©úÿÿÿÿ
+D	java:S131™""Add a default case to this switch.(ÒÖÁ†úÿÿÿÿ8Éª„‚Á/
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(î–˜Éüÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Õë±Äøÿÿÿÿ
+E
+java:S1068"/Remove this unused "player1Name" private field.(ãÅÍŒ
+E
+java:S1068"/Remove this unused "player2Name" private field.(¹†¨í
+E
+java:S1066>"/Merge this if statement with the enclosing one.(“è
+L
+java:S1066?"/Merge this if statement with the enclosing one.(éÄîà8“‰‚Á/
+K
+java:S1066G"/Merge this if statement with the enclosing one.(Ôƒ¹u8¼›‚Á/
+L
+java:S1066g"/Merge this if statement with the enclosing one.(±ÚÌ8™Á‚Á/
+f
+java:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(ÒÖÁ†úÿÿÿÿ
+g
+java:S1301‚"KReplace this "switch" statement by "if" statements to increase readability.(ˆËÀÆÿÿÿÿÿ
+g
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ãï¨©úÿÿÿÿ
+g
+java:S1301™"KReplace this "switch" statement by "if" statements to increase readability.(ÒÖÁ†úÿÿÿÿ

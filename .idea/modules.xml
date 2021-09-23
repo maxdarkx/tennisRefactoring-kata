@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tennis-kata/tennis-kata.iml" filepath="$PROJECT_DIR$/tennis-kata/tennis-kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tennisRefactoring.iml" filepath="$PROJECT_DIR$/.idea/tennisRefactoring.iml" />
+    </modules>
+  </component>
+</project>
